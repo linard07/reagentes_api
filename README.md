@@ -9,7 +9,6 @@
 - Lucas Vasquez - RM 555159
 - Lucas Rodrigues - RM 556323
 - Laura Souza - RM 556320
-- Ali Andrea - RM 558052
 
 ## Execução (local)
 Requisitos: Java 17+ e Maven
