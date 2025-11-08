@@ -1,5 +1,5 @@
 package com.empresa.reagentes.mapper;
-
+// Código revisado e padronizado por Guilherme Linard
 import com.empresa.reagentes.dto.ReagenteDTO;
 import com.empresa.reagentes.entity.Reagente;
 
