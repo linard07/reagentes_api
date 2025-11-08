@@ -25,10 +25,7 @@ Requisitos: Java 17+ e Maven
 - `PUT /api/reagentes/{id}` — atualizar (200/404)
 - `DELETE /api/reagentes/{id}` — deletar (204)
 
-## Observações
-- DTOs implementados como `record`.
-- Banco em memória H2 para desenvolvimento (`application.yml`).
-- Ajuste os relacionamentos e validações conforme necessidade.
 
-## Entrega
-Compactar a pasta `reagentes_api` em `cp56.zip` e enviar na tarefa do TEAMs.
+## Versão Final
+Projeto funcional com Spring Boot + Maven  
+Executado com sucesso em ambiente local (porta 8080)  
