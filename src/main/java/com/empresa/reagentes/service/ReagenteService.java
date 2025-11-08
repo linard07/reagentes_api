@@ -17,6 +17,7 @@ public class ReagenteService {
     }
 
     public Reagente create(Reagente r) {
+        System.out.println("Novo reagente criado: " + r.getNome());
         return repo.save(r);
     }
 
