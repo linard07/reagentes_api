@@ -1,3 +1,5 @@
+// Controller responsável por expor endpoints REST da entidade Reagente
+// Autor: Lucas Vasquez
 package com.empresa.reagentes.controller;
 
 import com.empresa.reagentes.dto.ReagenteDTO;
