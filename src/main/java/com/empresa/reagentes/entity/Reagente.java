@@ -1,3 +1,6 @@
+// Entidade principal do domínio de Reagentes
+// Autor: Lucas Rodrigues
+
 package com.empresa.reagentes.entity;
 
 import jakarta.persistence.*;
